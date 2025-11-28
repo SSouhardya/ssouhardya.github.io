@@ -13,6 +13,6 @@ Click [here](https://drive.google.com/file/d/1epxNU9j6ucMhgwar7nTEoFBoelOG8d6c/v
 
 ## Pre-prints and publications
 
-1. **S.Sengupta**, K.Imai and G.Papadogeorgeu. (2025) Low-rank Covariate Balancing Estimators\\ under Interference.
+1. **S.Sengupta**, K.Imai and G.Papadogeorgeu. (2025) Low-rank Covariate Balancing Estimators under Interference.
 2. **S.Sengupta** and L.Janson. (2025) The $\ell$-test: leveraging sparsity in the Gaussian linear model for improved inference. *Submitted*. [\[Paper\]](https://arxiv.org/abs/2406.18390) [\[Software\]](https://github.com/SSouhardya/ell_test_R)
 3. **S.Sengupta** and S.Das. (2022) Selective nearest neighbors clustering. *Pattern Recognition Letters*, 155:178-185. [\[Paper\]](https://www.sciencedirect.com/science/article/abs/pii/S0167865521003639) [\[Software\]](https://github.com/SSouhardya/SNNC)
